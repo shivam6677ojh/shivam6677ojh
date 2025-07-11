@@ -1,4 +1,4 @@
-# 🌐 Full Stack Development Guide for Sophomore Students
+# 🌐 Full Stack Development 
 
 Welcome to your journey in **Full Stack Web Development**! This guide is crafted especially for sophomore students who want to build powerful web applications from scratch — from the front end to the back end.
 
