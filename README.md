@@ -62,9 +62,9 @@ Full Stack Developers work on both:
 
 ---
 
-# 🐍 Contribution Snake (NEW 🔥)
+# 🐍 Contribution Snake 
 
-![snake gif](https://raw.githubusercontent.com/shivam6677ojh/shivam6677ojh/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/shivam6677ojh/shivam6677ojh/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
