@@ -27,16 +27,16 @@ Status: Open to Opportunities 🚀
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/shivam-ojha-349844297/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ojha6677ojha@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://github.com/shivam6677ojh">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://leetcode.com/YOUR_ID">
+  <a href="https://leetcode.com/u/NW4YoqbLA8/">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
   </a>
 </p>
@@ -99,7 +99,7 @@ Status: Open to Opportunities 🚀
 
 🛠️ Tech: React | Node.js | MongoDB | Express
 
-👉 [🔗 Live Demo](#) | [📂 Repo](#)
+👉 [🔗 Live Demo](https://quick-stay-hotel-booking-etxe.vercel.app/) | [📂 Repo](https://github.com/shivam6677ojh/QuickStay-HotelBooking)
 
 ---
 
@@ -114,7 +114,7 @@ Status: Open to Opportunities 🚀
 
 🛠️ Tech: React | Node.js | Socket.io | MongoDB
 
-👉 [🔗 Live Demo](#) | [📂 Repo](#)
+👉 [🔗 Live Demo](https://chatting-platform.vercel.app/) | [📂 Repo](https://github.com/shivam6677ojh/chatting-platform/tree/main/chat-app)
 
 ---
 
@@ -129,7 +129,7 @@ Status: Open to Opportunities 🚀
 
 🛠️ Tech: JavaScript | Node.js | MySQL
 
-👉 [📂 Repo](#)
+👉 [📂 Repo](https://github.com/shivam6677ojh/projectsummer)
 
 ---
 
