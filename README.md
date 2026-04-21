@@ -87,15 +87,7 @@ Full Stack Developers work on both:
 
 ---
 
-# 📊 GitHub Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=shivam6677ojh&show_icons=true&theme=merko)
-
-![streak](https://nirzak-streak-stats.vercel.app/?user=shivam6677ojh&theme=merko&hide_border=false)
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam6677ojh&theme=merko&layout=compact)
-
----
 
 # 🏆 GitHub Trophies
 
