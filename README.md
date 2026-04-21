@@ -27,7 +27,7 @@ Status: Open to Opportunities 🚀
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/shivam-ojha-349844297/">
+  <a href="https://www.linkedin.com/in/shivam-ojha-349844297/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:ojha6677ojha@gmail.com">
@@ -142,26 +142,18 @@ Status: Open to Opportunities 🚀
 
 ---
 
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivam6677ojh&theme=react-dark" />
+</p>
+
+---
+
 # 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shivam6677ojh/shivam6677ojh/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivam6677ojh&theme=radical"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=shivam6677ojh&icon=5&color=12"/>
 </p>
 
 ---
